@@ -1,0 +1,6 @@
+com\qeemaTask\OrderControllerTest.class
+com\qeemaTask\OrderServiceTest.class
+com\qeemaTask\OrderEntityTest.class
+com\qeemaTask\OrderItemServiceTest.class
+com\qeemaTask\ProductServiceTest.class
+com\qeemaTask\OrderItemControllerTest.class
